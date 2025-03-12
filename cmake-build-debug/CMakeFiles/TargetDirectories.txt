@@ -1,0 +1,12 @@
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/CMakeFiles/MPointers_2_0.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/memory-manager/CMakeFiles/mem-mgr.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/memory-manager/CMakeFiles/edit_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/memory-manager/CMakeFiles/rebuild_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/mpointers-lib/CMakeFiles/mpointers.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/mpointers-lib/CMakeFiles/edit_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/mpointers-lib/CMakeFiles/rebuild_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/examples/CMakeFiles/linked_list.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/home/steven-alberto/Escritorio/datos/Proyecto #1 - MPointers 2.0/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir

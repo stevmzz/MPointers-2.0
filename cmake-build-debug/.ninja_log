@@ -1,0 +1,21 @@
+# ninja log v6
+9	523	1741736709878134093	memory-manager/CMakeFiles/mem-mgr.dir/src/memory_manager.cpp.o	20509923c92a9297
+5	3056	1741736783548308899	memory-manager/CMakeFiles/mem-mgr.dir/src/main.cpp.o	296c4e76d4c51842
+2	761	1741736040868737904	mpointers-lib/CMakeFiles/mpointers.dir/src/http_client.cpp.o	cf26e9a7c35efcbf
+3	993	1741744225412395647	CMakeFiles/MPointers_2_0.dir/memory-manager/src/http_server.cpp.o	b41dc2e1761e3618
+905	1046	1741736041771769597	examples/linked_list	62268098c961aa0c
+4	3430	1741736783547308897	memory-manager/CMakeFiles/mem-mgr.dir/src/http_server.cpp.o	171a03cf3499aa23
+2	184	1741744225411395659	CMakeFiles/MPointers_2_0.dir/memory-manager/src/garbage_collector.cpp.o	d0fce67f9953a679
+7	189	1741736902650509531	memory-manager/mem-mgr	f901925a7ba3323e
+5	537	1741736709874134082	memory-manager/CMakeFiles/mem-mgr.dir/src/garbage_collector.cpp.o	2a81da2f36d16974
+761	778	1741736041627764546	mpointers-lib/libmpointers.a	5c786e74a5596783
+4	144	1741744225413395635	CMakeFiles/MPointers_2_0.dir/memory-manager/src/memory_manager.cpp.o	2ea3b8e8948ab96a
+3	946	1741744259876041631	CMakeFiles/MPointers_2_0.dir/memory-manager/src/main.cpp.o	a2e33bb41b2931ef
+3	93	1741746998576763485	build.ninja	dd3c815c863e549
+6	905	1741736040872738045	examples/CMakeFiles/linked_list.dir/linked_list.cpp.o	13c0ba7e481a7aad
+946	998	1741744260819033410	MPointers_2_0	376574d2d880c3c0
+4	189	1741747001782851876	CMakeFiles/MPointers_2_0.dir/memory-manager/src/memory_manager.cpp.o	f2cce16c309f6d40
+2	302	1741747001779851794	CMakeFiles/MPointers_2_0.dir/memory-manager/src/garbage_collector.cpp.o	a832422fc3ab8a7f
+3	1229	1741747001780851821	CMakeFiles/MPointers_2_0.dir/memory-manager/src/main.cpp.o	bd6793c4dc900dbc
+3	1266	1741747001780851821	CMakeFiles/MPointers_2_0.dir/memory-manager/src/http_server.cpp.o	4f5703dd572bd67b
+1266	1318	1741747003043886581	MPointers_2_0	376574d2d880c3c0
