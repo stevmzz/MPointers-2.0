@@ -19,3 +19,8 @@
 3	1229	1741747001780851821	CMakeFiles/MPointers_2_0.dir/memory-manager/src/main.cpp.o	bd6793c4dc900dbc
 3	1266	1741747001780851821	CMakeFiles/MPointers_2_0.dir/memory-manager/src/http_server.cpp.o	4f5703dd572bd67b
 1266	1318	1741747003043886581	MPointers_2_0	376574d2d880c3c0
+2	296	1741893134797224229	CMakeFiles/MPointers_2_0.dir/memory-manager/src/memory_manager.cpp.o	f2cce16c309f6d40
+1	389	1741893134796224216	CMakeFiles/MPointers_2_0.dir/memory-manager/src/garbage_collector.cpp.o	a832422fc3ab8a7f
+2	1149	1741893134797224229	CMakeFiles/MPointers_2_0.dir/memory-manager/src/main.cpp.o	bd6793c4dc900dbc
+2	1165	1741893134797224229	CMakeFiles/MPointers_2_0.dir/memory-manager/src/http_server.cpp.o	4f5703dd572bd67b
+1165	1220	1741893135960239396	MPointers_2_0	376574d2d880c3c0
