@@ -1,19 +1,20 @@
 #include <iostream>
 #include <string>
 #include "../include/memory_manager.h"
-#include "../include/http_server.h"
-#include "../include/garbage_collector.h"
 
 using namespace std;
 
 int main(int argc, char* argv[]) {
-    // Aquí iría:
-    // Parseo de argumentos de línea de comandos
-    // Inicialización del Memory Manager
-    // Inicialización del Garbage Collector
-    // Inicialización del servidor HTTP
-    // Iniciar el servidor y mantenerlo en ejecución
-
     cout << "Memory Manager Test" << endl;
+
+    // TEST: crear un Memory Manager con 1MB de memoria
+    try {
+        MemoryManager manager(1024 * 1024, "./dumps");
+        cout << "Memory Manager creado correctamente" << endl;
+
+    } catch (const std::exception& e) {
+        cout << "Error al crear el Memory Manager: " << e.what() << endl;
+    }
+
     return 0;
 }
