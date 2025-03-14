@@ -20,7 +20,6 @@ void signalHandler(int signal) {
 
 int main(int argc, char* argv[]) {
     signal(SIGINT, signalHandler);
-    cout << "Memory Manager Test" << endl;
     int port = 9080;
     if (argc > 1) {
         port = std::stoi(argv[1]);
@@ -41,8 +40,6 @@ int main(int argc, char* argv[]) {
             cout << "Iniciando servidor HTTP..." << endl;
             server.start();
         });
-
-        cout << "Servidor en ejecución. Presiona Ctrl+C para detener." << endl;
 
         // bucle principal del programa
         while(running) {
